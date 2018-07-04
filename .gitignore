@@ -1,0 +1,7 @@
+*.pyc
+*.log
+*.time
+.idea
+*.txt
+*.csv
+*.pprint
