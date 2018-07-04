@@ -1,0 +1,13 @@
+INDEX_MARKET = 'market_data'
+INDEX_MARKET_PREDICTION = 'market_data_prediction'
+INDEX_MARKET_EVALUATION = 'market_data_evaluation'
+
+TICKERS = ['AAPL', 'NFLX', 'MSFT']
+
+ALGORITHMS = ['SVR', 'RAND']
+
+
+INTERVAL = 15
+PREDICT_SIZE = 4
+TRAIN_SIZE = 4 * 5
+EVALUATE_BATCH = 100
